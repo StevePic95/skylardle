@@ -1,0 +1,345 @@
+{
+  "id": 1,
+  "single": {
+    "categories": ["Purrfect Cats", "The Big Easy", "Industrial Engineering", "World Capitals", "90s Music", "Food & Drink"],
+    "board": [
+      [
+        {
+          "clue": "This is the term for a group of cats",
+          "answer": "What is a clowder?",
+          "acceptedAnswers": ["clowder", "clowder of cats"]
+        },
+        {
+          "clue": "This fluffy breed is known for its flat face and long, luxurious coat",
+          "answer": "What is a Persian?",
+          "acceptedAnswers": ["persian"]
+        },
+        {
+          "clue": "A cat's purr typically vibrates at a frequency between 25 and this many hertz",
+          "answer": "What is 150?",
+          "acceptedAnswers": ["150", "150 hertz", "150 hz"]
+        },
+        {
+          "clue": "This ancient civilization worshipped cats and had a cat goddess named Bastet",
+          "answer": "What is Egypt?",
+          "acceptedAnswers": ["egypt", "ancient egypt", "egyptians", "ancient egyptians"]
+        },
+        {
+          "clue": "This internet-famous grumpy-looking cat, whose real name was Tardar Sauce, became a meme sensation in 2012",
+          "answer": "Who is Grumpy Cat?",
+          "acceptedAnswers": ["grumpy cat", "tardar sauce"]
+        }
+      ],
+      [
+        {
+          "clue": "New Orleans is located in this state",
+          "answer": "What is Louisiana?",
+          "acceptedAnswers": ["louisiana"]
+        },
+        {
+          "clue": "This annual celebration features parades, beads, and king cake in New Orleans",
+          "answer": "What is Mardi Gras?",
+          "acceptedAnswers": ["mardi gras", "carnival"]
+        },
+        {
+          "clue": "This iconic New Orleans neighborhood is known for jazz clubs on Bourbon Street",
+          "answer": "What is the French Quarter?",
+          "acceptedAnswers": ["french quarter", "vieux carre"]
+        },
+        {
+          "clue": "This boutique venue on Toulouse Street in the French Quarter hosted a magical wedding in October 2023",
+          "answer": "What is the Maison du Puy?",
+          "acceptedAnswers": ["maison du puy", "the maison du puy", "maison dupuy"]
+        },
+        {
+          "clue": "This devastating 2005 hurricane caused catastrophic flooding in New Orleans when levees were breached",
+          "answer": "What is Hurricane Katrina?",
+          "acceptedAnswers": ["katrina", "hurricane katrina"]
+        }
+      ],
+      [
+        {
+          "clue": "This IE tool uses a fishbone-shaped diagram to identify root causes of problems",
+          "answer": "What is an Ishikawa diagram?",
+          "acceptedAnswers": ["ishikawa diagram", "ishikawa", "fishbone diagram", "fishbone", "cause and effect diagram"]
+        },
+        {
+          "clue": "This father of scientific management used time studies to optimize worker efficiency",
+          "answer": "Who is Frederick Taylor?",
+          "acceptedAnswers": ["frederick taylor", "taylor", "frederick winslow taylor", "fw taylor"]
+        },
+        {
+          "clue": "In lean manufacturing, this Japanese word means 'continuous improvement'",
+          "answer": "What is kaizen?",
+          "acceptedAnswers": ["kaizen"]
+        },
+        {
+          "clue": "This queuing model notation describes arrival rate, service rate, and number of servers as M/M/1",
+          "answer": "What is Kendall's notation?",
+          "acceptedAnswers": ["kendalls notation", "kendall notation", "kendall"]
+        },
+        {
+          "clue": "This Toyota-developed system uses cards or signals to control inventory and production flow",
+          "answer": "What is kanban?",
+          "acceptedAnswers": ["kanban"]
+        }
+      ],
+      [
+        {
+          "clue": "This city serves as the capital of Japan",
+          "answer": "What is Tokyo?",
+          "acceptedAnswers": ["tokyo"]
+        },
+        {
+          "clue": "This South American capital sits at over 11,000 feet elevation in the Andes",
+          "answer": "What is La Paz?",
+          "acceptedAnswers": ["la paz"]
+        },
+        {
+          "clue": "This Scandinavian capital is built on 14 islands connected by bridges",
+          "answer": "What is Stockholm?",
+          "acceptedAnswers": ["stockholm"]
+        },
+        {
+          "clue": "This capital city was purpose-built in the 1960s to move Brazil's seat of government inland",
+          "answer": "What is Brasilia?",
+          "acceptedAnswers": ["brasilia"]
+        },
+        {
+          "clue": "Despite common assumptions, this city—not Sydney—is the capital of Australia",
+          "answer": "What is Canberra?",
+          "acceptedAnswers": ["canberra"]
+        }
+      ],
+      [
+        {
+          "clue": "Nirvana's 'Smells Like Teen Spirit' appeared on this 1991 album",
+          "answer": "What is Nevermind?",
+          "acceptedAnswers": ["nevermind"]
+        },
+        {
+          "clue": "This Spice Girls debut single topped charts worldwide in 1996",
+          "answer": "What is 'Wannabe'?",
+          "acceptedAnswers": ["wannabe"]
+        },
+        {
+          "clue": "TLC warned 'don't go chasing' these in their 1995 hit",
+          "answer": "What are waterfalls?",
+          "acceptedAnswers": ["waterfalls"]
+        },
+        {
+          "clue": "This Radiohead album, released in 1997, is often called one of the greatest albums ever made",
+          "answer": "What is OK Computer?",
+          "acceptedAnswers": ["ok computer"]
+        },
+        {
+          "clue": "Whitney Houston's 'I Will Always Love You' was featured in this 1992 film",
+          "answer": "What is The Bodyguard?",
+          "acceptedAnswers": ["the bodyguard", "bodyguard"]
+        }
+      ],
+      [
+        {
+          "clue": "This spice, derived from the crocus flower, is the most expensive spice by weight",
+          "answer": "What is saffron?",
+          "acceptedAnswers": ["saffron"]
+        },
+        {
+          "clue": "Forget the funnel cake — the sweetest moment at this Jersey Shore town happened at the top of its Ferris wheel",
+          "answer": "What is Ocean City?",
+          "acceptedAnswers": ["ocean city", "ocean city nj", "ocean city new jersey", "oc"]
+        },
+        {
+          "clue": "This fermented Korean side dish is made primarily from napa cabbage and chili peppers",
+          "answer": "What is kimchi?",
+          "acceptedAnswers": ["kimchi"]
+        },
+        {
+          "clue": "This Italian dessert whose name means 'pick me up' is made with ladyfingers and mascarpone",
+          "answer": "What is tiramisu?",
+          "acceptedAnswers": ["tiramisu"]
+        },
+        {
+          "clue": "Beignets, the signature New Orleans treat, are best known from this iconic French Quarter cafe",
+          "answer": "What is Cafe Du Monde?",
+          "acceptedAnswers": ["cafe du monde", "cafe dumonde", "du monde"]
+        }
+      ]
+    ],
+    "dailyDoubles": [[2, 3]]
+  },
+  "double": {
+    "categories": ["The Wager by David Grann", "Cat Science", "Optimization", "American History", "Classic Literature", "Sports"],
+    "board": [
+      [
+        {
+          "clue": "The Wager tells the story of a shipwreck involving this country's naval vessel in the 1740s",
+          "answer": "What is Britain?",
+          "acceptedAnswers": ["britain", "england", "great britain", "united kingdom", "uk", "british"]
+        },
+        {
+          "clue": "The ship in The Wager was part of a squadron led by this Commodore on a mission to raid Spanish holdings",
+          "answer": "Who is George Anson?",
+          "acceptedAnswers": ["anson", "george anson", "commodore anson"]
+        },
+        {
+          "clue": "The Wager wrecked on an island off the coast of this South American country",
+          "answer": "What is Chile?",
+          "acceptedAnswers": ["chile"]
+        },
+        {
+          "clue": "The survivors split into factions, with one group led by Captain Cheap and another by this gunner who led a mutiny",
+          "answer": "Who is John Bulkley?",
+          "acceptedAnswers": ["bulkley", "john bulkley", "bulkely"]
+        },
+        {
+          "clue": "David Grann, author of The Wager, also wrote this bestselling book about the Osage murders and the birth of the FBI",
+          "answer": "What is Killers of the Flower Moon?",
+          "acceptedAnswers": ["killers of the flower moon"]
+        }
+      ],
+      [
+        {
+          "clue": "Launched in 2012, this dating app helped one special couple 'swipe right' on love in 2015",
+          "answer": "What is Tinder?",
+          "acceptedAnswers": ["tinder"]
+        },
+        {
+          "clue": "This reflective layer behind a cat's retina gives them excellent night vision",
+          "answer": "What is the tapetum lucidum?",
+          "acceptedAnswers": ["tapetum lucidum", "tapetum"]
+        },
+        {
+          "clue": "Cats cannot taste this particular flavor that humans enjoy, due to a missing taste receptor gene",
+          "answer": "What is sweet?",
+          "acceptedAnswers": ["sweet", "sweetness", "sugar"]
+        },
+        {
+          "clue": "This behavior, where cats rhythmically push their paws, is believed to be a leftover instinct from kittenhood nursing",
+          "answer": "What is kneading?",
+          "acceptedAnswers": ["kneading", "making biscuits", "biscuits"]
+        },
+        {
+          "clue": "A cat's ear can rotate this many degrees to detect the source of a sound",
+          "answer": "What is 180 degrees?",
+          "acceptedAnswers": ["180", "180 degrees"]
+        }
+      ],
+      [
+        {
+          "clue": "This optimization method, developed by George Dantzig, is used to solve linear programming problems",
+          "answer": "What is the simplex method?",
+          "acceptedAnswers": ["simplex", "simplex method", "simplex algorithm"]
+        },
+        {
+          "clue": "In Six Sigma, this metric represents 3.4 defects per million opportunities",
+          "answer": "What is Six Sigma quality?",
+          "acceptedAnswers": ["six sigma", "6 sigma"]
+        },
+        {
+          "clue": "This Japanese term means 'mistake-proofing' and refers to designing processes to prevent errors",
+          "answer": "What is poka-yoke?",
+          "acceptedAnswers": ["poka yoke", "pokayoke", "poka-yoke"]
+        },
+        {
+          "clue": "DMAIC stands for Define, Measure, Analyze, Improve, and this final step",
+          "answer": "What is Control?",
+          "acceptedAnswers": ["control"]
+        },
+        {
+          "clue": "This statistical chart, invented by Walter Shewhart, monitors process variation over time with upper and lower control limits",
+          "answer": "What is a control chart?",
+          "acceptedAnswers": ["control chart", "shewhart chart", "x bar chart", "xbar chart"]
+        }
+      ],
+      [
+        {
+          "clue": "This 1803 land deal doubled the size of the United States for about 3 cents per acre",
+          "answer": "What is the Louisiana Purchase?",
+          "acceptedAnswers": ["louisiana purchase"]
+        },
+        {
+          "clue": "This woman refused to give up her bus seat in Montgomery, Alabama in 1955",
+          "answer": "Who is Rosa Parks?",
+          "acceptedAnswers": ["rosa parks", "parks"]
+        },
+        {
+          "clue": "Alexander Hamilton and this man fought a famous duel in 1804 in Weehawken, New Jersey",
+          "answer": "Who is Aaron Burr?",
+          "acceptedAnswers": ["aaron burr", "burr"]
+        },
+        {
+          "clue": "This constitutional amendment, ratified in 1920, granted women the right to vote",
+          "answer": "What is the 19th Amendment?",
+          "acceptedAnswers": ["19th amendment", "19th", "nineteenth amendment"]
+        },
+        {
+          "clue": "Neil Armstrong spoke the famous words 'one small step for man' during this 1969 mission",
+          "answer": "What is Apollo 11?",
+          "acceptedAnswers": ["apollo 11", "apollo eleven"]
+        }
+      ],
+      [
+        {
+          "clue": "This apartment complex was the setting for a couple's very first chapter of living together",
+          "answer": "What is Autumn Ridge?",
+          "acceptedAnswers": ["autumn ridge"]
+        },
+        {
+          "clue": "Herman Melville's obsessive Captain Ahab hunts this white whale",
+          "answer": "What is Moby Dick?",
+          "acceptedAnswers": ["moby dick"]
+        },
+        {
+          "clue": "This dystopian George Orwell novel features Big Brother and the Thought Police",
+          "answer": "What is 1984?",
+          "acceptedAnswers": ["1984", "nineteen eighty four"]
+        },
+        {
+          "clue": "This F. Scott Fitzgerald novel features Jay Gatsby and a green light across the bay",
+          "answer": "What is The Great Gatsby?",
+          "acceptedAnswers": ["great gatsby", "the great gatsby"]
+        },
+        {
+          "clue": "Gabriel Garcia Marquez wrote this magical realist epic following the Buendia family over seven generations",
+          "answer": "What is One Hundred Years of Solitude?",
+          "acceptedAnswers": ["one hundred years of solitude", "100 years of solitude", "hundred years of solitude"]
+        }
+      ],
+      [
+        {
+          "clue": "This annual sporting event is traditionally held on the first Sunday in February",
+          "answer": "What is the Super Bowl?",
+          "acceptedAnswers": ["super bowl", "superbowl"]
+        },
+        {
+          "clue": "In basketball, a 'triple-double' requires double digits in points, rebounds, and this stat",
+          "answer": "What are assists?",
+          "acceptedAnswers": ["assists"]
+        },
+        {
+          "clue": "This Williams sister has won 23 Grand Slam singles titles, the most in the Open Era",
+          "answer": "Who is Serena Williams?",
+          "acceptedAnswers": ["serena", "serena williams"]
+        },
+        {
+          "clue": "Soccer's World Cup is held every this many years",
+          "answer": "What is four?",
+          "acceptedAnswers": ["4", "four"]
+        },
+        {
+          "clue": "This Jamaican sprinter, known as 'Lightning Bolt,' holds the world record in the 100m dash",
+          "answer": "Who is Usain Bolt?",
+          "acceptedAnswers": ["usain bolt", "bolt"]
+        }
+      ]
+    ],
+    "dailyDoubles": [[0, 3], [3, 4]]
+  },
+  "final": {
+    "category": "New Orleans History",
+    "clue": "In 1815, Andrew Jackson defeated the British in this battle fought two weeks after the War of 1812 had officially ended with the signing of the Treaty of Ghent",
+    "answer": "What is the Battle of New Orleans?",
+    "acceptedAnswers": ["battle of new orleans", "new orleans"]
+  }
+}
