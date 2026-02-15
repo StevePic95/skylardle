@@ -1,0 +1,546 @@
+{
+  "id": 2,
+  "single": {
+    "categories": [
+      "Factory Facts",
+      "Feline Famous",
+      "Poker Face",
+      "Bourbon Street Beats",
+      "Historical Fiction",
+      "\"Log\" Logic"
+    ],
+    "board": [
+      [
+        {
+          "clue": "Henry Ford revolutionized manufacturing by introducing this moving method of production in 1913.",
+          "answer": "What is the assembly line?",
+          "acceptedAnswers": [
+            "assembly line",
+            "moving assembly line",
+            "the assembly line"
+          ]
+        },
+        {
+          "clue": "Often made of rubber or PVC, this loop of material transports goods from point A to point B.",
+          "answer": "What is a conveyor belt?",
+          "acceptedAnswers": [
+            "conveyor belt",
+            "conveyor",
+            "belt"
+          ]
+        },
+        {
+          "clue": "This four-letter federal agency sets the standards for safety and health in the manufacturing workplace.",
+          "answer": "What is OSHA?",
+          "acceptedAnswers": [
+            "osha",
+            "occupational safety and health administration"
+          ]
+        },
+        {
+          "clue": "Toyota pioneered this inventory strategy, abbreviated JIT, to decrease waste and increase efficiency.",
+          "answer": "What is Just-in-Time?",
+          "acceptedAnswers": [
+            "just in time",
+            "jit",
+            "just-in-time"
+          ]
+        },
+        {
+          "clue": "Motorola developed this data-driven methodology that aims for near-perfection, allowing only 3.4 defects per million opportunities.",
+          "answer": "What is Six Sigma?",
+          "acceptedAnswers": [
+            "six sigma",
+            "6 sigma"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "This orange, lasagna-loving cat has been hating Mondays since 1978.",
+          "answer": "Who is Garfield?",
+          "acceptedAnswers": [
+            "garfield"
+          ]
+        },
+        {
+          "clue": "Sanrio's mouthless icon, who is technically a little girl and not a cat, wears a red bow on her left ear.",
+          "answer": "Who is Hello Kitty?",
+          "acceptedAnswers": [
+            "hello kitty",
+            "kitty white"
+          ]
+        },
+        {
+          "clue": "In 'Alice in Wonderland', this magical feline is known for his mischievous grin and ability to disappear.",
+          "answer": "Who is the Cheshire Cat?",
+          "acceptedAnswers": [
+            "cheshire cat",
+            "the cheshire cat"
+          ]
+        },
+        {
+          "clue": "Before he was a puppet in the 90s sitcom, this black cat was a warlock sentenced to live as a feline for trying to take over the world.",
+          "answer": "Who is Salem?",
+          "acceptedAnswers": [
+            "salem",
+            "salem saberhagen"
+          ]
+        },
+        {
+          "clue": "This ginger ship's cat was the sole survivor of the Nostromo incident in the movie 'Alien'.",
+          "answer": "Who is Jones?",
+          "acceptedAnswers": [
+            "jones",
+            "jonesy"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "A hand containing five cards of the same suit, regardless of rank.",
+          "answer": "What is a flush?",
+          "acceptedAnswers": [
+            "flush"
+          ]
+        },
+        {
+          "clue": "The art of betting aggressively with a weak hand to make your opponent fold.",
+          "answer": "What is bluffing?",
+          "acceptedAnswers": [
+            "bluffing",
+            "a bluff"
+          ]
+        },
+        {
+          "clue": "The most popular variant of poker today, featuring two hole cards and five community cards.",
+          "answer": "What is Texas Hold'em?",
+          "acceptedAnswers": [
+            "texas hold em",
+            "texas holdem",
+            "hold em",
+            "holdem"
+          ]
+        },
+        {
+          "clue": "Following the flop and the turn, this is the name given to the fifth and final community card dealt.",
+          "answer": "What is the river?",
+          "acceptedAnswers": [
+            "river",
+            "the river",
+            "fifth street"
+          ]
+        },
+        {
+          "clue": "Wild Bill Hickok was holding this two-pair hand of aces and eights when he was shot in Deadwood.",
+          "answer": "What is the Dead Man's Hand?",
+          "acceptedAnswers": [
+            "dead mans hand",
+            "dead man's hand",
+            "aces and eights"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "This improvisational genre of music was born in New Orleans in the late 19th and early 20th centuries.",
+          "answer": "What is Jazz?",
+          "acceptedAnswers": [
+            "jazz"
+          ]
+        },
+        {
+          "clue": "Nicknamed 'Satchmo', this trumpeter and vocalist is New Orleans' most famous musical son.",
+          "answer": "Who is Louis Armstrong?",
+          "acceptedAnswers": [
+            "louis armstrong",
+            "armstrong",
+            "satchmo",
+            "pops"
+          ]
+        },
+        {
+          "clue": "Clifton Chenier was the 'King' of this accordion-heavy musical style that blends blues and Creole traditions.",
+          "answer": "What is Zydeco?",
+          "acceptedAnswers": [
+            "zydeco"
+          ]
+        },
+        {
+          "clue": "It's the tradition of brass band parades where participants dance behind the main band, often twirling parasols.",
+          "answer": "What is a Second Line?",
+          "acceptedAnswers": [
+            "second line",
+            "second lining"
+          ]
+        },
+        {
+          "clue": "Malcolm John Rebennack Jr. performed voodoo-influenced psychedelic rock under this medical moniker.",
+          "answer": "Who is Dr. John?",
+          "acceptedAnswers": [
+            "dr john",
+            "doctor john",
+            "the night tripper"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "Julia Quinn wrote the series of romance novels that inspired this hit Netflix show about the Bridgerton siblings.",
+          "answer": "What is Bridgerton?",
+          "acceptedAnswers": [
+            "bridgerton"
+          ]
+        },
+        {
+          "clue": "This 2001 novel by Philippa Gregory focuses on Mary, the sister of a famous beheaded queen.",
+          "answer": "What is The Other Boleyn Girl?",
+          "acceptedAnswers": [
+            "the other boleyn girl",
+            "other boleyn girl"
+          ]
+        },
+        {
+          "clue": "In this Diana Gabaldon series, a WWII nurse touches a stone circle in Scotland and travels back to 1743.",
+          "answer": "What is Outlander?",
+          "acceptedAnswers": [
+            "outlander"
+          ]
+        },
+        {
+          "clue": "Hilary Mantel's 'Wolf Hall' explores the rise of this chief minister to Henry VIII.",
+          "answer": "Who is Thomas Cromwell?",
+          "acceptedAnswers": [
+            "thomas cromwell",
+            "cromwell"
+          ]
+        },
+        {
+          "clue": "He wrote 'The Pillars of the Earth', a massive epic centered on the construction of a cathedral in 12th-century England.",
+          "answer": "Who is Ken Follett?",
+          "acceptedAnswers": [
+            "ken follett",
+            "follett"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "A graphic mark or emblem used to promote public recognition of a brand.",
+          "answer": "What is a logo?",
+          "acceptedAnswers": [
+            "logo"
+          ]
+        },
+        {
+          "clue": "Short for 'weblog', this is a regularly updated website written in an informal style.",
+          "answer": "What is a blog?",
+          "acceptedAnswers": [
+            "blog"
+          ]
+        },
+        {
+          "clue": "A systematic list of items, often found in a library or a mail-order booklet.",
+          "answer": "What is a catalog?",
+          "acceptedAnswers": [
+            "catalog",
+            "catalogue"
+          ]
+        },
+        {
+          "clue": "The study of correct reasoning, or a rapper known for the song '1-800-273-8255'.",
+          "answer": "What is Logic?",
+          "acceptedAnswers": [
+            "logic"
+          ]
+        },
+        {
+          "clue": "The opposite of digital, referring to technology like vinyl records or clock faces with hands.",
+          "answer": "What is analog?",
+          "acceptedAnswers": [
+            "analog",
+            "analogue"
+          ]
+        }
+      ]
+    ],
+    "dailyDoubles": [
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  "double": {
+    "categories": [
+      "Supply Chain Reaction",
+      "Royal Scandals",
+      "NOLA Cuisine",
+      "A \"Little\" Knowledge",
+      "Women in STEM",
+      "Before & After"
+    ],
+    "board": [
+      [
+        {
+          "clue": "It's the complete list of items such as property, goods in stock, or the contents of a building.",
+          "answer": "What is inventory?",
+          "acceptedAnswers": [
+            "inventory"
+          ]
+        },
+        {
+          "clue": "In process analysis, this is a point of congestion that slows down the entire system.",
+          "answer": "What is a bottleneck?",
+          "acceptedAnswers": [
+            "bottleneck"
+          ]
+        },
+        {
+          "clue": "Pronounced 'skew', this acronym stands for a unique code assigned to a product for identification.",
+          "answer": "What is Stock Keeping Unit?",
+          "acceptedAnswers": [
+            "stock keeping unit",
+            "sku"
+          ]
+        },
+        {
+          "clue": "This Japanese philosophy focuses on continuous improvement involving all employees from the CEO to the assembly line workers.",
+          "answer": "What is Kaizen?",
+          "acceptedAnswers": [
+            "kaizen"
+          ]
+        },
+        {
+          "clue": "Invented around 1910, this type of bar chart illustrates a project schedule and dependency relationships.",
+          "answer": "What is a Gantt chart?",
+          "acceptedAnswers": [
+            "gantt chart",
+            "gantt"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "This Tudor king created a religious schism just to annul his marriage to Catherine of Aragon.",
+          "answer": "Who is Henry VIII?",
+          "acceptedAnswers": [
+            "henry viii",
+            "henry the 8th",
+            "king henry viii"
+          ]
+        },
+        {
+          "clue": "Though she likely never said 'Let them eat cake', this queen was guillotined during the French Revolution.",
+          "answer": "Who is Marie Antoinette?",
+          "acceptedAnswers": [
+            "marie antoinette"
+          ]
+        },
+        {
+          "clue": "Some historians blame this hunchbacked king for the disappearance of his nephews, the Princes in the Tower.",
+          "answer": "Who is Richard III?",
+          "acceptedAnswers": [
+            "richard iii",
+            "richard the 3rd"
+          ]
+        },
+        {
+          "clue": "This mystic and advisor to the Romanovs survived being poisoned and shot before finally drowning.",
+          "answer": "Who is Rasputin?",
+          "acceptedAnswers": [
+            "rasputin",
+            "grigori rasputin"
+          ]
+        },
+        {
+          "clue": "King Edward VIII abdicated the British throne in 1936 to marry this American socialite.",
+          "answer": "Who is Wallis Simpson?",
+          "acceptedAnswers": [
+            "wallis simpson",
+            "duchess of windsor"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "These deep-fried squares of choux pastry are dusted with powdered sugar and famously served at Café Du Monde.",
+          "answer": "What are beignets?",
+          "acceptedAnswers": [
+            "beignets",
+            "beignet"
+          ]
+        },
+        {
+          "clue": "This official state cuisine of Louisiana is a stew that starts with a dark roux and includes the 'Holy Trinity' of vegetables.",
+          "answer": "What is Gumbo?",
+          "acceptedAnswers": [
+            "gumbo"
+          ]
+        },
+        {
+          "clue": "This sandwich, served on French bread, often features fried shrimp, oysters, or roast beef.",
+          "answer": "What is a Po' Boy?",
+          "acceptedAnswers": [
+            "po boy",
+            "poboy",
+            "poor boy"
+          ]
+        },
+        {
+          "clue": "Central Grocery in New Orleans claims to have invented this sandwich piled high with Italian meats and olive salad.",
+          "answer": "What is a Muffuletta?",
+          "acceptedAnswers": [
+            "muffuletta",
+            "muffaletta"
+          ]
+        },
+        {
+          "clue": "Brennan's Restaurant created this flaming dessert made with fruit, brown sugar, cinnamon, rum, and banana liqueur.",
+          "answer": "What is Bananas Foster?",
+          "acceptedAnswers": [
+            "bananas foster"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "Ariel trades her voice for legs in this Hans Christian Andersen fairy tale.",
+          "answer": "What is The Little Mermaid?",
+          "acceptedAnswers": [
+            "the little mermaid",
+            "little mermaid"
+          ]
+        },
+        {
+          "clue": "Meg, Jo, Beth, and Amy March are the sisters in this Louisa May Alcott classic.",
+          "answer": "What is Little Women?",
+          "acceptedAnswers": [
+            "little women"
+          ]
+        },
+        {
+          "clue": "This capital city of Arkansas was the site of a major Civil Rights integration event at Central High School in 1957.",
+          "answer": "What is Little Rock?",
+          "acceptedAnswers": [
+            "little rock"
+          ]
+        },
+        {
+          "clue": "The architect of rock and roll who sang 'Tutti Frutti' and 'Good Golly, Miss Molly'.",
+          "answer": "Who is Little Richard?",
+          "acceptedAnswers": [
+            "little richard"
+          ]
+        },
+        {
+          "clue": "This asterism in Ursa Minor contains Polaris, the North Star.",
+          "answer": "What is the Little Dipper?",
+          "acceptedAnswers": [
+            "the little dipper",
+            "little dipper"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "She was the first woman to win a Nobel Prize and the only person to win them in two different scientific fields.",
+          "answer": "Who is Marie Curie?",
+          "acceptedAnswers": [
+            "marie curie",
+            "madame curie",
+            "curie"
+          ]
+        },
+        {
+          "clue": "Daughter of Lord Byron, she is often considered the first computer programmer for her work on the Analytical Engine.",
+          "answer": "Who is Ada Lovelace?",
+          "acceptedAnswers": [
+            "ada lovelace",
+            "lovelace"
+          ]
+        },
+        {
+          "clue": "This Navy rear admiral was a pioneer of computer programming and popularized the term 'debugging'.",
+          "answer": "Who is Grace Hopper?",
+          "acceptedAnswers": [
+            "grace hopper",
+            "admiral grace hopper"
+          ]
+        },
+        {
+          "clue": "A Hollywood star of the 1940s, she co-invented frequency-hopping spread spectrum technology, a precursor to Wi-Fi.",
+          "answer": "Who is Hedy Lamarr?",
+          "acceptedAnswers": [
+            "hedy lamarr",
+            "lamarr"
+          ]
+        },
+        {
+          "clue": "Portrayed by Taraji P. Henson in 'Hidden Figures', her orbital calculations were critical to the success of the first U.S. crewed spaceflights.",
+          "answer": "Who is Katherine Johnson?",
+          "acceptedAnswers": [
+            "katherine johnson",
+            "johnson"
+          ]
+        }
+      ],
+      [
+        {
+          "clue": "A Pat Sajak game show combines with a crunchy dessert found in Chinese restaurants.",
+          "answer": "What is Wheel of Fortune Cookie?",
+          "acceptedAnswers": [
+            "wheel of fortune cookie"
+          ]
+        },
+        {
+          "clue": "A fast-food chain with a chihuahua mascot combines with a glass container for preserving jam.",
+          "answer": "What is Taco Bell Jar?",
+          "acceptedAnswers": [
+            "taco bell jar"
+          ]
+        },
+        {
+          "clue": "A 15-time major golf champion combines with the opening on a green where you sink your putt.",
+          "answer": "What is Tiger Woods Hole?",
+          "acceptedAnswers": [
+            "tiger woods hole"
+          ]
+        },
+        {
+          "clue": "A Disney princess who lost a glass slipper combines with the opulent California estate built by a newspaper magnate.",
+          "answer": "What is Cinderella Hearst Castle?",
+          "acceptedAnswers": [
+            "cinderella hearst castle"
+          ]
+        },
+        {
+          "clue": "The British Secret Service agent 007 combines with a place where stocks and bonds are traded.",
+          "answer": "What is James Bond Market?",
+          "acceptedAnswers": [
+            "james bond market"
+          ]
+        }
+      ]
+    ],
+    "dailyDoubles": [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        4
+      ]
+    ]
+  },
+  "final": {
+    "category": "Casino Games",
+    "clue": "This card game, a favorite of James Bond in the original novels, is often played in a roped-off area and allows players to take turns acting as the banker.",
+    "answer": "What is Baccarat?",
+    "acceptedAnswers": [
+      "baccarat",
+      "chemin de fer"
+    ]
+  }
+}
